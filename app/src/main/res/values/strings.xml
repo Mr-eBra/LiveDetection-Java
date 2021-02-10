@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Live Detection</string>
+    <string name="Start_Camera">Start Camera</string>
+    <string name="Stop_Camera">Stop Camera</string>
+</resources>
